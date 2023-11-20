@@ -8,4 +8,6 @@
 ```
 ...и возвращает ответ в виде одной из строк: `healthy`, `wounded`, `critical`
 
-Исходное ДЗ [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8/test-ci)
+Описание ДЗ: [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8/test-ci)
+
+AppVeyor к репозиторию: [здесь](https://ci.appveyor.com/project/KoensBerg/unit-testing-1-cleaning-function)
